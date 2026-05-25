@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Mohd%20Faisal&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=AI%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Java%20Backend&descSize=16&descAlignY=85&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Mohd%20Faisal&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Cybersecurity%20Enthusiast%20%E2%80%A2%20Java%20Backend%20Developer&descSize=16&descAlignY=85&descColor=a78bfa" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=AI+Developer+Intern+%40+IIIT+Hyderabad;Spring+Boot+%26+Microservices+Engineer;Cybersecurity+%26+VAPT+Practitioner;Building+Secure+%26+Intelligent+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Spring+Boot+%26+Microservices+Engineer;Cybersecurity+%26+VAPT+Practitioner;Java+Backend+Developer;Building+Secure+%26+Scalable+Systems)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,12 +20,11 @@
 
 ```yaml
 name       : Mohd Faisal
-education  : BE Computer Science — MJCET, Hyderabad
-experience : AI Developer Intern @ VISWAM.AI (IIIT Hyderabad)
-focus      : Java Backend · Cybersecurity · AI Systems
+education  : BE Computer Science(2026) — MJCET, Hyderabad
+focus      : Java Backend · Cybersecurity · VAPT
 learning   : DevOps · Cloud · Advanced Security
-interests  : AI + Security + Scalable Architecture
-quote      : "Building secure, intelligent systems — one commit at a time."
+interests  : Security + Scalable Architecture + Secure Development
+quote      : "Building secure, scalable systems — one commit at a time."
 ```
 
 ---
@@ -44,7 +43,6 @@ quote      : "Building secure, intelligent systems — one commit at a time."
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -82,14 +80,14 @@ quote      : "Building secure, intelligent systems — one commit at a time."
 ### NeuroStack — Health Tracker Microservices Platform
 > Java · Spring Boot · Kafka · Keycloak · OAuth2 · AWS
 
-A production-grade microservices platform for health tracking with event-driven messaging via Kafka, identity management through Keycloak, and secure OAuth2 flows. Deployed with AWS integration.
+Production-grade microservices platform for health tracking with event-driven messaging via Kafka, identity management through Keycloak, and secure OAuth2 flows deployed on AWS.
 
 ---
 
 ### GhostMesh — Adaptive Honeypot System
-> Python · LLM Analysis · MITRE ATT&CK · SSH/FTP/HTTP Emulation
+> Python · MITRE ATT&CK · SSH/FTP/HTTP Emulation · Threat Intelligence
 
-Intelligent honeypot that emulates real services to fingerprint threat actors. Generates automated MITRE ATT&CK-mapped incident reports using LLM-powered log analysis.
+Intelligent honeypot that emulates real services to fingerprint threat actors. Generates automated MITRE ATT&CK-mapped incident reports with LLM-powered log analysis.
 
 ---
 
@@ -101,9 +99,9 @@ Secure payroll platform supporting multiple organizations with role-based access
 ---
 
 ### AI-Powered Security Log Analyzer
-> Java · Spring Boot · ML · Risk Scoring
+> Java · Spring Boot · Risk Scoring · Anomaly Detection
 
-Automated log analysis engine that detects brute-force attacks, suspicious activity, and anomalies with a configurable risk scoring system.
+Automated log analysis engine that detects brute-force attacks and suspicious activity patterns with a configurable risk scoring system.
 
 ---
 
@@ -153,6 +151,6 @@ Automated log analysis engine that detects brute-force attacks, suspicious activ
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=80&section=footer" />
 
-*"Building secure, intelligent systems at the intersection of AI and Cybersecurity."*
+*"Building secure, scalable systems at the intersection of Java and Cybersecurity."*
 
 </div>
